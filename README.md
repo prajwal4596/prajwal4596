@@ -1,7 +1,6 @@
 Hello There 👋
 Myself Prajwal, Btech FY student based in india 
-
-
+Building reliable, scalable solutions with clean code, strong collaboration, and a focus on real-world impact.
 
 <!--
 **prajwal4596/prajwal4596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
